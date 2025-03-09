@@ -13,6 +13,6 @@ export function handleSearch(service: string, params: Record<string, string>) {
   searchParams.set("dates", params.dates)
 
   // Redirect to example.com with the parameters
-  window.location.href = `https://example.com?${searchParams.toString()}`
+  window.location.href = `https://www.easemytrip.com/?${searchParams.toString()}`
 }
 
