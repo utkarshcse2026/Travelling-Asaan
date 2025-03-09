@@ -76,7 +76,7 @@ export function Footer() {
               </select>
             </div>
             <p className="text-sm text-gray-400 mt-8">Cheap flight booking from anywhere to everywhere</p>
-            <p className="text-sm text-gray-400 mt-2">© Skyscanner Ltd 2002 – 2025</p>
+            <p className="text-sm text-gray-400 mt-2">© Aggarwal Industries 2025</p>
           </div>
         </div>
       </div>
