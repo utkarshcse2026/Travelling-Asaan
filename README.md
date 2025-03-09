@@ -1,3 +1,7 @@
+# INITIAL CODE HAVE BEEN POSTED AND FURTHER CHANGES ADDITION WILL BE MADE SOON .
+# RAISE ISSUES AND PULL REQUESTS IF YOU GUYS WANNA HELP ME OUT  .
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
