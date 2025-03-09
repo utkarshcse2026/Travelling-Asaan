@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TravelEase - Book Flights, Cars & Hotels",
-  description: "Book your next adventure with TravelEase. Find the best deals on flights, cars, and hotels worldwide.",
+  title: "Travelling Asaan - Book Flights, Cars & Hotels",
+  description: "Book your next adventure with Travelling Asaan . Find the best deals on flights, cars, and hotels worldwide.",
 }
 
 export default function RootLayout({

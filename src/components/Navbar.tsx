@@ -34,7 +34,7 @@ export function TravelNavbar() {
           <MobileNav isOpen={isOpen} setIsOpen={setIsOpen} />
           <Link href="/" className="flex items-center space-x-2">
             <Plane className="h-6 w-6" />
-            <span className="hidden font-bold sm:inline-block">TravelEase</span>
+            <span className="hidden font-bold sm:inline-block">Travelling Asaan </span>
           </Link>
           <MainNav isOpen={isOpen} />
           <div className="flex items-center space-x-4">
